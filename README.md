@@ -1,4 +1,4 @@
-# pro3
+# British Airways Review Dashboard using Tableau
 * The dashboard is interactive so that users can filter the data by selecting different options from the dropdown menus.
 * This allows users to see the rating for the specific criteria they are interested in.
 * The bar graph and line chart shows Average rating based on metric user choose by aircraft and by month.
